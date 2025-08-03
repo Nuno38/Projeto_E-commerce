@@ -3,7 +3,7 @@
 <h1> Este projeto é um modelo conceitual de banco de dados para um E-Commerce</h1>
 ----------------------------------------------------------------------------------
 
-# Obejetivo 
+# Objetivo 
 Criar uma estrutura de banco de dados para um comércio eletrônico que permita realizar.
 - Cadastro
 - Processamento e gerenciamento de produtos
