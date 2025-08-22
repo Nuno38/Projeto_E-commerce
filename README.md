@@ -17,6 +17,7 @@ Criar uma estrutura de banco de dados para um comércio eletrônico que permita 
 MySQL Workbench - Para criação do modelo conceitual - arquivo .mwb
 <br>
 **Markdwon**
+<br>
 ------------------ Penútimo projeto Redmi atualizado ----------------------------------------------------------------------------
 Modelo ER - E-commerce
 
