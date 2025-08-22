@@ -18,7 +18,8 @@ MySQL Workbench - Para criação do modelo conceitual - arquivo .mwb
 <br>
 **Markdwon**
 <br>
------------------- Penútimo projeto Redmi atualizado ----------------------------------------------------------------------------
+                                                        ------------------ Penútimo projeto Redmi atualizado -------------------------------
+<br>
 Modelo ER - E-commerce
 
 Entidades e Atributos
